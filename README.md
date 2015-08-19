@@ -2,3 +2,5 @@
 Script to communicate with ELM327 reader and display values in XBMC skin
 
 Currently only has values to get data from Vauxhall / Opel KWP - Tested on 2.0dti Zafira
+
+For more info see http://nikrooz.co.uk/raspberry-pi-car-puter
