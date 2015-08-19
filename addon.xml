@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.OBD" name="OBD Script" version="0.2.0" provider-name="anikrooz">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.library"          library="default.py" />
+    <extension point="xbmc.python.script"           library="default.py">
+        <provides>executable</provides>
+    </extension>
+	<extension point="xbmc.addon.metadata">
+		<language/>
+		<summary lang="en">OBD Script</summary>
+		<description lang="en">This script makes it possible to get OBD values.</description>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</license>
+		<forum>-</forum>
+		<source>-</source>
+		<email>-</email>
+	</extension>
+</addon>
